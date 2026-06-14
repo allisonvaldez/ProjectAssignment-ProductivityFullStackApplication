@@ -1,0 +1,5 @@
+"""
+This file is in charge of detailing the dependencies needed so that the exact development environment can be replicated.
+"""
+
+# import necessary libraries, utilities, and modules

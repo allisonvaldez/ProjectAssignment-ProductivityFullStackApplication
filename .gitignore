@@ -1,0 +1,5 @@
+"""
+This file is in charge of creating unbound instances of the db, migrate, jwt, and cors. It will help prevent unnecessary imports between app.py, models.py, and the route files. All the file imports will come from one shared place.
+"""
+
+# import necessary libraries, utilities, and modules
