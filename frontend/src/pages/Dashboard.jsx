@@ -1,3 +1,5 @@
 /* 
 This file will serve the AvailabilitySection and MeetingSection since they are the main authenticated landing page.
 */
+
+// import necessary libraries, utilities, and modules
