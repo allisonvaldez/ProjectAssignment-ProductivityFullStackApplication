@@ -26,4 +26,3 @@ class Config:
     # Set the database url do not track modifications to save resources
     SQLALCHEMY_DATABASE_URI = _database_url
     SQLALCHEMY_TRACK_MODIFICATIONS = False
-
